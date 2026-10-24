@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <!-- My national parks list -->
-<NationalParks>
+<NationalParks
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://sunnyal99.github.io/CSE445-Assignment4/NationalParks.xsd">
 
     <!-- Park 1 -->
     <NationalPark Rating="4.9">
