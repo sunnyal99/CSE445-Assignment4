@@ -17,9 +17,9 @@
                           <xs:element name="Name" type="xs:string"/>
 
                           <!-- Park phone numbers -->
-                         <xs:element name="Phone" type="xs:string" maxOccurs="unbounded"/>
+                          <xs:element name="Phone" type="xs:string" maxOccurs="unbounded"/>
 
-                         <!-- Park address -->
+                          <!-- Park address -->
                           <xs:element name="Address">
                                 <xs:complexType>
                                     <xs:sequence>
@@ -27,7 +27,7 @@
                                         <xs:element name="Street" type="xs:string"/>
                                         <xs:element name="City" type="xs:string"/>
                                         <xs:element name="State" type="xs:string"/>
-                                        <xs:element name="Zip" type="xs:string"/>
+                                        <xs:element name="Zip" type="xs:int"/>
                                     </xs:sequence>
 
                                     <!-- Airport is required -->
