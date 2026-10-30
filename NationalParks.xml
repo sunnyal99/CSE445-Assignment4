@@ -6,161 +6,161 @@
     xsi:noNamespaceSchemaLocation="https://sunnyal99.github.io/CSE445-Assignment4/NationalParks.xsd">
 
     <!-- Park 1 -->
-    <NationalPark Rating="4.9">
-        <Name>Grand Canyon</Name>
-        <Phone>928-638-7496</Phone>
-        <Phone>888-297-2757</Phone>
-        <Phone>866-499-2574</Phone>
+    <NationalPark rating="4.9">
+        <name>Grand Canyon</name>
+        <phone>928-638-7496</phone>
+        <phone>888-297-2757</phone>
+        <phone>866-499-2574</phone>
 
         <!-- Address -->
-        <Address NearestAirport="FlagStaff">
-            <Number>8</Number>
-            <Street>S Entrance Road</Street>
-            <City>Grand Canyon</City>
-            <State>AZ</State>
-            <Zip>86023</Zip>
-        </Address>
+        <address nearestAirport="FlagStaff">
+            <number>8</number>
+            <street>S Entrance Road</street>
+            <city>Grand Canyon</city>
+            <state>AZ</state>
+            <zip>86023</zip>
+        </address>
     </NationalPark>
 
     <!-- Park 2 -->
     <NationalPark>
-        <Name>Saguaro National Park</Name>
-        <Phone>520-733-5153</Phone>
-        <Phone>520-733-5158</Phone>
+        <name>Saguaro National Park</name>
+        <phone>520-733-5153</phone>
+        <phone>520-733-5158</phone>
 
-        <Address NearestAirport="Tucson International Airport">
-            <Number>3693</Number>
-            <Street>S Old Spanish Trail</Street>
-            <City>Tucson</City>
-            <State>AZ</State>
-            <Zip>85730</Zip>
-        </Address>
+        <address nearestAirport="Tucson International Airport">
+            <number>3693</number>
+            <street>S Old Spanish Trail</street>
+            <city>Tucson</city>
+            <state>AZ</state>
+            <zip>85730</zip>
+        </address>
     </NationalPark>
 
     <!-- Park 3 -->
     <NationalPark>
-        <Name>Yellowstone National Park</Name>
-        <Phone>307-344-7381</Phone>
+        <name>Yellowstone National Park</name>
+        <phone>307-344-7381</phone>
 
-        <Address NearestAirport="Yellowstone Airport">
-            <Number>2</Number>
-            <Street>Officers Row</Street>
-            <City>Yellowstone National Park</City>
-            <State>WY</State>
-            <Zip>82190</Zip>
-        </Address>
+        <address nearestAirport="Yellowstone Airport">
+            <number>2</number>
+            <street>Officers Row</street>
+            <city>Yellowstone National Park</city>
+            <state>WY</state>
+            <zip>82190</zip>
+        </address>
     </NationalPark>
 
     <!-- Park 4 -->
     <NationalPark>
-        <Name>Olympic National Park</Name>
-        <Phone>360-565-3130</Phone>
+        <name>Olympic National Park</name>
+        <phone>360-565-3130</phone>
 
-        <Address NearestAirport="William R. Fairchild International Airport">
-            <Number>3002</Number>
-            <Street>Mount Angeles Road</Street>
-            <City>Port Angeles</City>
-            <State>WA</State>
-            <Zip>98362</Zip>
-        </Address>
+        <address nearestAirport="William R. Fairchild International Airport">
+            <number>3002</number>
+            <street>Mount Angeles Road</street>
+            <city>Port Angeles</city>
+            <state>WA</state>
+            <zip>98362</zip>
+        </address>
     </NationalPark>
 
     <!-- Park 5 -->
     <NationalPark>
-        <Name>Mesa Verde National Park</Name>
-        <Phone>970-529-4465</Phone>
+        <name>Mesa Verde National Park</name>
+        <phone>970-529-4465</phone>
 
-        <Address NearestAirport="Cortez Municipal Airport">
-            <Number>34840</Number>
-            <Street>Hwy 160</Street>
-            <City>Mancos</City>
-            <State>CO</State>
-            <Zip>81328</Zip>
-        </Address>
+        <address nearestAirport="Cortez Municipal Airport">
+            <number>34840</number>
+            <street>Hwy 160</street>
+            <city>Mancos</city>
+            <state>CO</state>
+            <zip>81328</zip>
+        </address>
     </NationalPark>
 
     <!-- Park 6 -->
     <NationalPark>
-        <Name>Guadalupe Mountains National Park</Name>
-        <Phone>915-828-3251</Phone>
+        <name>Guadalupe Mountains National Park</name>
+        <phone>915-828-3251</phone>
 
-        <Address NearestAirport="El Paso International Airport">
-            <Number>400</Number>
-            <Street>Pine Canyon Drive</Street>
-            <City>Salt Flat</City>
-            <State>TX</State>
-            <Zip>79847</Zip>
-        </Address>
+        <address nearestAirport="El Paso International Airport">
+            <number>400</number>
+            <street>Pine Canyon Drive</street>
+            <city>Salt Flat</city>
+            <state>TX</state>
+            <zip>79847</zip>
+        </address>
     </NationalPark>
 
     <!-- Park 7 -->
-    <NationalPark Rating="4.8">
-        <Name>Hawaii Volcanoes National Park</Name>
-        <Phone>808-985-6011</Phone>
+    <NationalPark rating="4.8">
+        <name>Hawaii Volcanoes National Park</name>
+        <phone>808-985-6011</phone>
 
-        <Address NearestAirport="Hilo International Airport">
-            <Number>1</Number>
-            <Street>Crater Rim Drive</Street>
-            <City>Hawaii National Park</City>
-            <State>HI</State>
-            <Zip>96718</Zip>
-        </Address>
+        <address nearestAirport="Hilo International Airport">
+            <number>1</number>
+            <street>Crater Rim Drive</street>
+            <city>Hawaii National Park</city>
+            <state>HI</state>
+            <zip>96718</zip>
+        </address>
     </NationalPark>
 
     <!-- Park 8 -->
     <NationalPark>
-        <Name>Kobuk Valley National Park</Name>
-        <Phone>907-318-2230</Phone>
+        <name>Kobuk Valley National Park</name>
+        <phone>907-318-2230</phone>
 
-        <Address NearestAirport="Ralph Wien Memorial Airport">
-            <Number>171</Number>
-            <Street>Third Ave</Street>
-            <City>Kotzebue</City>
-            <State>AK</State>
-            <Zip>99752</Zip>
-        </Address>
+        <address nearestAirport="Ralph Wien Memorial Airport">
+            <number>171</number>
+            <street>Third Ave</street>
+            <city>Kotzebue</city>
+            <state>AK</state>
+            <zip>99752</zip>
+        </address>
     </NationalPark>
 
     <!-- Park 9 -->
     <NationalPark>
-        <Name>Everglades National Park</Name>
-        <Phone>305-242-7700</Phone>
+        <name>Everglades National Park</name>
+        <phone>305-242-7700</phone>
 
-        <Address NearestAirport="Miami Homestead General Aviation Airport">
-            <Number>40001</Number>
-            <Street>State Road 9336</Street>
-            <City>Homestead</City>
-            <State>FL</State>
-            <Zip>33034</Zip>
-        </Address>
+        <address nearestAirport="Miami Homestead General Aviation Airport">
+            <number>40001</number>
+            <street>State Road 9336</street>
+            <city>Homestead</city>
+            <state>FL</state>
+            <zip>33034</zip>
+        </address>
     </NationalPark>
 
     <!-- Park 10 -->
-    <NationalPark Rating="4.7">
-        <Name>Rocky Mountain National Park</Name>
-        <Phone>970-586-1206</Phone>
+    <NationalPark rating="4.7">
+        <name>Rocky Mountain National Park</name>
+        <phone>970-586-1206</phone>
 
-        <Address NearestAirport="Denver International Airport">
-            <Number>1000</Number>
-            <Street>US Highway 36</Street>
-            <City>Estes Park</City>
-            <State>CO</State>
-            <Zip>80517</Zip>
-        </Address>
+        <address nearestAirport="Denver International Airport">
+            <number>1000</number>
+            <street>US Highway 36</street>
+            <city>Estes Park</city>
+            <state>CO</state>
+            <zip>80517</zip>
+        </address>
     </NationalPark>
 
     <!-- Park 11 -->
     <NationalPark>
-        <Name>Shenandoah National Park</Name>
-        <Phone>540-999-3500</Phone>
+        <name>Shenandoah National Park</name>
+        <phone>540-999-3500</phone>
 
-        <Address NearestAirport="Shenandoah Valley Regional Airport">
-            <Number>3655</Number>
-            <Street>US Highway 211 East</Street>
-            <City>Luray</City>
-            <State>VA</State>
-            <Zip>22835</Zip>
-        </Address>
+        <address nearestAirport="Shenandoah Valley Regional Airport">
+            <number>3655</number>
+            <street>US Highway 211 East</street>
+            <city>Luray</city>
+            <state>VA</state>
+            <zip>22835</zip>
+        </address>
     </NationalPark>
 
 </NationalParks>
