@@ -14,7 +14,7 @@
         <phone>888-297-2757</phone>
         <phone>866-499-2574</phone>
 
-        <address nearestAirport="FlagStaff">
+        <address NearestAirport="FlagStaff">
             <number>8</number>
             <street>S Entrance Road</street>
             <city>Grand Canyon</city>
@@ -45,7 +45,7 @@
 
         <!-- Error 3: Missing phone -->
 
-        <address nearestAirport="Yellowstone Airport">
+        <address NearestAirport="Yellowstone Airport">
             <number>2</number>
             <street>Officers Row</street>
             <city>Yellowstone National Park</city>
@@ -60,7 +60,7 @@
         <phone>360-565-3130</phone>
 
         <!-- Error 4: Missing address closing tag -->
-        <address nearestAirport="William R. Fairchild International Airport">
+        <address NearestAirport="William R. Fairchild International Airport">
             <number>3002</number>
             <street>Mount Angeles Road</street>
             <city>Port Angeles</city>
@@ -78,7 +78,7 @@
 
         <phone>970-529-4465</phone>
 
-        <address nearestAirport="Cortez Municipal Airport">
+        <address NearestAirport="Cortez Municipal Airport">
             <number>34840</number>
             <street>Hwy 160</street>
             <city>Mancos</city>
@@ -92,7 +92,7 @@
         <name>Guadalupe Mountains National Park</name>
         <phone>915-828-3251</phone>
 
-        <address nearestAirport="El Paso International Airport">
+        <address NearestAirport="El Paso International Airport">
             <number>400</number>
             <street>Pine Canyon Drive</street>
             <city>Salt Flat</city>
@@ -106,7 +106,7 @@
         <name>Hawaii Volcanoes National Park</name>
         <phone>808-985-6011</phone>
 
-        <address nearestAirport="Hilo International Airport">
+        <address NearestAirport="Hilo International Airport">
             <number>1</number>
             <street>Crater Rim Drive</street>
             <city>Hawaii National Park</city>
@@ -120,7 +120,7 @@
         <name>Kobuk Valley National Park</name>
         <phone>907-318-2230</phone>
 
-        <address nearestAirport="Ralph Wien Memorial Airport">
+        <address NearestAirport="Ralph Wien Memorial Airport">
             <number>171</number>
             <street>Third Ave</street>
             <city>Kotzebue</city>
@@ -134,7 +134,7 @@
         <name>Everglades National Park</name>
         <phone>305-242-7700</phone>
 
-        <address nearestAirport="Miami Homestead General Aviation Airport">
+        <address NearestAirport="Miami Homestead General Aviation Airport">
             <number>40001</number>
             <street>State Road 9336</street>
             <city>Homestead</city>
@@ -148,7 +148,7 @@
         <name>Rocky Mountain National Park</name>
         <phone>970-586-1206</phone>
 
-        <address nearestAirport="Denver International Airport">
+        <address NearestAirport="Denver International Airport">
             <number>1000</number>
             <street>US Highway 36</street>
             <city>Estes Park</city>
@@ -162,7 +162,7 @@
         <name>Shenandoah National Park</name>
         <phone>540-999-3500</phone>
 
-        <address nearestAirport="Shenandoah Valley Regional Airport">
+        <address NearestAirport="Shenandoah Valley Regional Airport">
             <number>3655</number>
             <street>US Highway 211 East</street>
             <city>Luray</city>
